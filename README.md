@@ -1,2 +1,2 @@
-# Competitive_Programming
+# DMOJ
 competitive programming solutions
